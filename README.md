@@ -56,7 +56,7 @@ This project aims to develop and evaluate a machine learning model for predictin
 * Behavioral Risk Factor Surveillance System data used.
 * Emphasis on health-related risk behaviors and chronic health conditions.
 
-###__Feature Selection:__
+### __Feature Selection:__
 * Dual approach: medical expert insights and machine learning techniques.
 * Utilization of XGBoost model’s feature importance functionality.
 * Aim for a medically sound and analytically precise model.
